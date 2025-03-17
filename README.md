@@ -1,5 +1,8 @@
 # YUU-Spring-2025-Prework Section LG3
 
+## instructor: Dave Wade-Stein
+* dave@developintelligence.com
+
 # WELCOME!
 * cameras on as much as possible, please (better for you, better for me)
 
