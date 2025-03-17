@@ -1,4 +1,4 @@
-# YUU-Spring-2025-Prework
+# YUU-Spring-2025-Prework Section LG3
 
 # WELCOME!
 * cameras on as much as possible, please (better for you, better for me)
