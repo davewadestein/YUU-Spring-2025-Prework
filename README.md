@@ -2,6 +2,7 @@
 
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
+* PLEASE NOTE: I do not have any access or visibility to BrightSpace. So please reach out to your YU program manager with any issues that occur on that platform.
 
 # WELCOME!
 * cameras on as much as possible, please (better for you, better for me)
