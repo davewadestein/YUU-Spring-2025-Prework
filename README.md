@@ -3,7 +3,9 @@
 ## Homework 2: Alternate
 * because we are a bit behind (we will catch up as best as we can), rather than do the current Homework 2, I am working on an alternate homework for you
 * I expect it to be ready by 9 am Pacific Time on Thursday, March 20th
-* WATCH THIS SPACE
+* Follow this link: https://colab.research.google.com/github/davewadestein/YUU-Spring-2025-Prework/blob/main/02_homework_LG3.ipynb
+  * You may do the homework in the notebook and if so, be sure to __`Download`__ the notebook when you are done so you can submit it via BrightSpace
+  * any issues please email me
 
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
