@@ -1,5 +1,10 @@
 # YUU-Spring-2025-Prework Section LG3
 
+## Homework 2: Alternate
+* because we are a bit behind (we will catch up as best as we can), rather than do the current Homework 2, I am working on an alternate homework for you
+* I expect it to be ready by 9 am Pacific Time on Thursday, March 20th
+* WATCH THIS SPACE
+
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
 * PLEASE NOTE: I do not have any access or visibility to BrightSpace. So please reach out to your YU program manager with any issues that occur on that platform.
