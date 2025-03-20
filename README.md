@@ -14,9 +14,6 @@
 * AI (ChatGPT, Claude.AI, CoPilot)
   * if you're gonna use AI, then use AI (don't stop until you understand)
 
-# Introductions
-* short but video/audio
-
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
 
