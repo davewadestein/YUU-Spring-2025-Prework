@@ -1,5 +1,11 @@
 # YUU-Spring-2025-Prework Section LG3
 
+## PLEASE READ
+* Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight atform and I'm sorry to hear about these issues!
+   * I have no visibility into BrightSpace or the Pluralsight setup, so your first communication should be to your Year Up Project Manager. If they are unable to solve the issue, please reach out to
+      * Sabrina Freytag  sabrina-freytag@pluralsight.com
+      * Emilie Jones     emilie-jones@pluralsight.com
+* I have made the YU folks aware of the fact that we are behind. I take responsibility for that. As a result, the assessment covers materials we haven't yet learned, which I know is frustrating. If you gave it a shot, that's fine. At this point it's more about attempting the work, rather than necessarily getting everything correct. 
 ## Homework 2: Alternate
 * because we are a bit behind (we will catch up as best as we can), rather than do the current Homework 2, I am working on an alternate homework for you
 * Follow this link: https://colab.research.google.com/github/davewadestein/YUU-Spring-2025-Prework/blob/main/02_homework_LG3.ipynb
