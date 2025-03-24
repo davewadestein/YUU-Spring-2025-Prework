@@ -16,6 +16,10 @@
 * dave@developintelligence.com
 * PLEASE NOTE: I do not have any access or visibility to BrightSpace. So please reach out to your YU program manager with any issues that occur on that platform.
 
+## Recordings/Videos
+* Unfortunately, Year Up has asked that we not distribute the recordings.
+* Please contact your Project Manager at Year Up to discuss.
+
 ## Things to keep in mind to get better at coding...
 * when you have a working solution, thing of another way to do it
 
