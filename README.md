@@ -1,11 +1,11 @@
 # YUU-Spring-2025-Prework Section LG3
 
-## Homework 3: Alternate
-* I am currently recording a short video that I'd like you to watch so that you can do the required homework
+## Homework Due Tonight
+* I have recorded a short video that I'd like you to watch that will help you do the required homework
   * there are 3 problems on the homework, the first one you already know how to do because it exercises last week's material
   * the video will help you learn the topics needed for the other 2 problems in the homework
   * we will also cover these topics in class tomorrow, but if everyone watches the video, we'll likely be able to move through the material faster
-* I expect to have the video posted HERE BY 10:30 AM Pacific, Tuesday, March 25th
+* Video has been recorded, but I am waiting for it to be _processed_ by Zoom...I expect it to be posted by 10:30 AM Pacific, Tuesday, March 25th
 
 ## Who to contact to resolve issues
 * Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
