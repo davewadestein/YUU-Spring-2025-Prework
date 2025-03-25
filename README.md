@@ -6,8 +6,10 @@
   * the video will help you learn the topics needed for the other 2 problems in the homework
   * we will also cover these topics in class tomorrow, but if everyone watches the video, we'll likely be able to move through the material faster
 * Video link
+  * __Please do me a favor: Email me if you're able to view the video__
   * https://pluralsight.zoom.us/rec/share/knUDrtvPDnZR63YcQuzcniJE347jL8IF3glykmmwIAC-c7Prl4mwBTuvrNA8s1qE.tQns-tQQ6b2REpn5 
   * Passcode: @m2crfG0
+ 
 
 ## Who to contact to resolve issues
 * Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
