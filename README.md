@@ -1,7 +1,7 @@
 # YUU-Spring-2025-Prework Section LG3
 
 ## PLEASE READ
-* Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight atform and I'm sorry to hear about these issues!
+* Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
    * I have no visibility into BrightSpace or the Pluralsight setup, so your first communication should be to your Year Up Project Manager. If they are unable to solve the issue, please reach out to
       * Sabrina Freytag  sabrina-freytag@pluralsight.com
       * Emilie Jones     emilie-jones@pluralsight.com
