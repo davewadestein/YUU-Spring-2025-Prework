@@ -9,7 +9,9 @@
   * __Please do me a favor: Email me if you're able to view the video__
   * https://pluralsight.zoom.us/rec/share/knUDrtvPDnZR63YcQuzcniJE347jL8IF3glykmmwIAC-c7Prl4mwBTuvrNA8s1qE.tQns-tQQ6b2REpn5 
   * Passcode: @m2crfG0
- 
+
+## Pre-Work Evaluation for you to fill out
+* https://www.surveymonkey.com/r/K3XWKXG
 
 ## Who to contact to resolve issues
 * Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
