@@ -23,6 +23,7 @@
 ## Instructor: Dave Wade-Stein
 * dave@developintelligence.com
 * PLEASE NOTE: I do not have any access or visibility to BrightSpace. So please reach out to your YU program manager with any issues that occur on that platform.
+* your instructor for the remainder of the program will be Maaike van Putten (she is awesome!)
 
 ## You agree to the following...
 * if you use AI, USE AI – do not stop until you understand (reframe, ask another question)
