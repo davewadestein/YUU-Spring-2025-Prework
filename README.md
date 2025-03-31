@@ -2,7 +2,7 @@
 
 ## Pre-Work Evaluation for you to fill out
 * https://www.surveymonkey.com/r/K3XWKXG
-* 
+  
 ## PLEASE READ: Week 2 Homework 1
 * I have recorded a short video that I'd like you to watch that will help you do the required homework
   * there are 3 problems on the homework, the first one you already know how to do because it exercises last week's material
