@@ -1,6 +1,6 @@
 # YUU-Spring-2025-Prework Section LG3
 
-## PLEASE READ: Homework Due Tonight
+## PLEASE READ: Week 2 Homework 1
 * I have recorded a short video that I'd like you to watch that will help you do the required homework
   * there are 3 problems on the homework, the first one you already know how to do because it exercises last week's material
   * the video will help you learn the topics needed for the other 2 problems in the homework
