@@ -1,5 +1,8 @@
 # YUU-Spring-2025-Prework Section LG3
 
+## Pre-Work Evaluation for you to fill out
+* https://www.surveymonkey.com/r/K3XWKXG
+* 
 ## PLEASE READ: Week 2 Homework 1
 * I have recorded a short video that I'd like you to watch that will help you do the required homework
   * there are 3 problems on the homework, the first one you already know how to do because it exercises last week's material
@@ -9,9 +12,6 @@
   * __Please do me a favor: Email me if you're able to view the video__
   * https://pluralsight.zoom.us/rec/share/knUDrtvPDnZR63YcQuzcniJE347jL8IF3glykmmwIAC-c7Prl4mwBTuvrNA8s1qE.tQns-tQQ6b2REpn5 
   * Passcode: @m2crfG0
-
-## Pre-Work Evaluation for you to fill out
-* https://www.surveymonkey.com/r/K3XWKXG
 
 ## Who to contact to resolve issues
 * Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
@@ -44,4 +44,3 @@
 ## Recordings/Videos
 * Unfortunately, Year Up has asked that we not distribute the recordings.
 * Please contact your Project Manager at Year Up to discuss.
-
