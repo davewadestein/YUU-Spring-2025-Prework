@@ -31,6 +31,7 @@
 
 ## Things to keep in mind to get better at coding...
 * when you have a working solution, thing of another way to do it
+* read code! You read code 10x more than you write code, develop that skill
 
 ## Resources
 * AI (ChatGPT, Claude.AI, CoPilot, Bard, etc.)
