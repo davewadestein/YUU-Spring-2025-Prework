@@ -31,6 +31,8 @@
 ## Things to keep in mind to get better at coding...
 * when you have a working solution, thing of another way to do it
 * read code! You read code 10x more than you write code, develop that skill
+* "Programs are written for others to read, and only incidentally for computers to execute" –Hal Abelson
+* Eagleson's Law: "Any code you wrote more than six months ago might as well have been written by someone else"
 
 ## Resources
 * AI (ChatGPT, Claude.AI, CoPilot, Bard, etc.)
