@@ -33,6 +33,9 @@
 * read code! You read code 10x more than you write code, develop that skill
 * "Programs are written for others to read, and only incidentally for computers to execute" –Hal Abelson
 * Eagleson's Law: "Any code you wrote more than six months ago might as well have been written by someone else"
+* The three banes of existence for programmers are:
+  1. uninitialized / incorrectly initialized variables
+  2. off by one errors  
 
 ## Resources
 * AI (ChatGPT, Claude.AI, CoPilot, Bard, etc.)
